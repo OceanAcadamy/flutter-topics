@@ -1,0 +1,13 @@
+- Introduction to flutter and dart
+- Conventions
+- variables(Gloabal & local)
+- datatypes
+- Literals
+- String Literals
+- String Interpolation
+- constants(const & fianl)
+- operators
+  - Arithmetic operator
+  - Relational Operator
+  - Logical Operator
+  - Ternary operator
