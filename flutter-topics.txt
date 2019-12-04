@@ -10,4 +10,16 @@
   - Arithmetic operator
   - Relational Operator
   - Logical Operator
-  - Ternary operator
+  - Ternary operator(conditional Expressions)
+ 
+- Conditional Statements
+  - if
+  - if..else
+  - else if ladder
+  - nested if..else
+  - switch case
+- Looping
+  - for
+    - for each
+  - while
+    - do..while
